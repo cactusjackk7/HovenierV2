@@ -10,6 +10,9 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2HuAerBxSzzgdlNeqq1z67FM9Nr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,6 +22,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -31,7 +40,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669124693390</updated>
-      <workItem from="1669124694879" duration="374000" />
+      <workItem from="1669124694879" duration="1261000" />
+      <workItem from="1669129937817" duration="26000" />
+      <workItem from="1669134117051" duration="291000" />
+      <workItem from="1670090189266" duration="4043000" />
+      <workItem from="1670110610196" duration="172000" />
     </task>
     <servers />
   </component>
@@ -43,5 +56,9 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="698" y="173" key="SettingsEditor/0.25.1680.1025@0.25.1680.1025" timestamp="1669125140062" />
+    <state x="975" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1670091056199">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="975" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.1025@0.25.1680.1025" timestamp="1670091056199" />
   </component>
 </project>
