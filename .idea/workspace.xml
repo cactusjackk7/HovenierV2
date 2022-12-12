@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="52787fed-9607-4b80-88ac-55232bbd8ded" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.php" beforeDir="false" afterPath="$PROJECT_DIR$/shop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +56,7 @@
       <workItem from="1670110786060" duration="528000" />
       <workItem from="1670334685153" duration="1824000" />
       <workItem from="1670491383136" duration="2866000" />
-      <workItem from="1670835695103" duration="80000" />
+      <workItem from="1670835695103" duration="1856000" />
     </task>
     <servers />
   </component>
@@ -68,5 +72,9 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="975" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.1025@0.25.1680.1025" timestamp="1670334841485" />
+    <state x="839" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1670842143070">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="839" y="252" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1670842143070" />
   </component>
 </project>

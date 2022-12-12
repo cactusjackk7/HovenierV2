@@ -109,7 +109,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         <input type="text" placeholder="username" class="form-control <?php echo (!empty($username_err)) ? 'is-invalid' : ''; ?>" value="<?php echo $username; ?>">
     </div>
     <div class="password">
-        <input type="password" placeholder="password" class="form-control" <?php echo (!empty($password_err)) ? 'is-invalid' : ''; ?>>
+        <input type="password" placeholder="password" class="form-control" <?php echo (!empty($password_err)) ? 'is-invalid' : ''; ?> <?php echo $password; ?>>
     </div>
     <div class="login">
         <span>Log in</span>

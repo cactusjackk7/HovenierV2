@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -93,6 +95,10 @@
         <a href="welcome.php" class="nav-link">
             <span class="nav-text">Profiel</span>
             <ion-icon name="accessibility-outline" size="large"></ion-icon>
+        </a>
+        <a href="login.php" class="nav-link">
+            <span class="nav-text">Log Out</span>
+            <ion-icon name="log-in-outline" size="large"></ion-icon>
         </a>
     </div>
 </nav>
